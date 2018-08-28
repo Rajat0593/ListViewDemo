@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">ListViewDemo</string>
+    <string name="stringstext">Strings</string>
+    <string name="arraylistText">ArrayList</string>
+    <string name="dynamic_list_using_java">Dynamic list using Java</string>
+    <string name="static_list_using_xml">Static list using xml</string>
+
+    <string-array name="days">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+
+</resources>
